@@ -1,0 +1,42 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "departmentId": 1,
+            "computerId": 2,
+            "name": "Sam Winston"
+        },
+        {
+            "id": 2,
+            "departmentId": 2,
+            "computerId": 1,
+            "name": "Goofy Goober"
+        },
+        {
+            "id": 3,
+            "departmentId": 2,
+            "computerId": 1,
+            "name": "Harry Potter"
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "human-resources"
+        },
+        {
+            "id": 2,
+            "name": "magical-investigations"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "name": "2015 Macbook Pro"
+        },
+        {
+            "id": 2,
+            "name": "HP Envy 2018"
+        }
+    ]
+}
